@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color:	#ffcccc ;
+  cursor: pointer;
+  min-height: 92vh;
+}
+
+.col-style {
+  float: left;
+  width: 30%;
+}
